@@ -14,4 +14,4 @@ USERNAME2:PASSWORD2 <br /> <br />
 
 8 - Click on INICIAR. <br />
 9 - Open "xampp-folder/contas" and you'll have all the accounts in the correct format. <br />
-10 - Drag and drop the accounts from "xampp-folder/contas" to the "ASF-folder/config" and you'll be good to go.
+10 - Drag and drop the accounts from "xampp-folder/contas" to the "ASF-folder/config" and you'll be good to go
